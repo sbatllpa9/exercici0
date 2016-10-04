@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 6ccff30911e5e9d47b81ad7666c0f970
+timeCreated: 1475493352
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: //RootNode
+    100004: brac.d
+    100006: brac.d_end
+    100008: brac.e
+    100010: brac.e_end
+    100012: cadera.d
+    100014: cadera.e
+    100016: cama.d
+    100018: cama.d_end
+    100020: cama.e
+    100022: cama.e_end
+    100024: Camera
+    100026: cap
+    100028: cap_end
+    100030: cintura
+    100032: Cube.004
+    100034: Lamp
+    100036: tronc
+    400000: Armature
+    400002: //RootNode
+    400004: brac.d
+    400006: brac.d_end
+    400008: brac.e
+    400010: brac.e_end
+    400012: cadera.d
+    400014: cadera.e
+    400016: cama.d
+    400018: cama.d_end
+    400020: cama.e
+    400022: cama.e_end
+    400024: Camera
+    400026: cap
+    400028: cap_end
+    400030: cintura
+    400032: Cube.004
+    400034: Lamp
+    400036: tronc
+    4300000: Cube.004
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cube.004
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/cintura
+        weight: 1
+      - path: Armature/cintura/cadera.d
+        weight: 1
+      - path: Armature/cintura/cadera.d/cama.d
+        weight: 1
+      - path: Armature/cintura/cadera.d/cama.d/cama.d_end
+        weight: 1
+      - path: Armature/cintura/cadera.e
+        weight: 1
+      - path: Armature/cintura/cadera.e/cama.e
+        weight: 1
+      - path: Armature/cintura/cadera.e/cama.e/cama.e_end
+        weight: 1
+      - path: Armature/cintura/tronc
+        weight: 1
+      - path: Armature/cintura/tronc/brac.d
+        weight: 1
+      - path: Armature/cintura/tronc/brac.d/brac.d_end
+        weight: 1
+      - path: Armature/cintura/tronc/brac.e
+        weight: 1
+      - path: Armature/cintura/tronc/brac.e/brac.e_end
+        weight: 1
+      - path: Armature/cintura/tronc/cap
+        weight: 1
+      - path: Armature/cintura/tronc/cap/cap_end
+        weight: 1
+      - path: Armature/Lamp
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube.004
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
